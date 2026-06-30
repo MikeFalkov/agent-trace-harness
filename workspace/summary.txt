@@ -1,0 +1,1 @@
+An AI agent is a system that can perceive information, make decisions, and take actions to achieve a goal.
